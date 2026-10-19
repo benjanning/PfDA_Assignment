@@ -22,4 +22,4 @@ Click a notebook to view its saved code, explanations and any retained outputs d
 
 ---
 
-[View selected complete projects](https://github.com/benjanning/programming2022).
+[View selected complete projects](https://benjanning.github.io/projects/).
