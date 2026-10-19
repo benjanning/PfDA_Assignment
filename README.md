@@ -1,25 +1,12 @@
-# Programming for Data Analytics — Analysis Notebooks
+# Historical coursework — data analytics practice
 
-**Python · Jupyter · NumPy · Matplotlib · scikit-learn · SQLite**
+Notebook exercises in random data, visualisation, databases and introductory modelling.
 
-A collection of practical notebooks exploring data analysis, simulation, visualisation, relational data and introductory machine learning.
+[Explore selected complete projects →](https://benjanning.github.io/projects/)
 
-## Notebooks
+- [Practice data](data)
+- [SQLite notebook](SQLite.ipynb)
 
-| Area | Notebook |
-| --- | --- |
-| Data visualisation and random/normal distributions | [Matplotlib & Normal Distribution](./PfDA_Assignment%20-%20Week04%20-%20Matplotlib%20-%20Random%2C%20Normal%20Distribution.ipynb) |
-| SQL and databases | [SQLite](./SQLite.ipynb) |
-| Statistical bias | [Statistical Bias](./Statistical%20Bias%20%28Skeleton%29.ipynb) |
-| Introductory ML | [Scikit-learn](./Week%2005%20-%20Scikit%20Learn.ipynb) |
-| Supporting material | [Data folder](./data) |
+These are supporting investigations or learning exercises. Full execution and current external-service compatibility are not claimed. Use environment variables for any local configuration; do not commit credentials.
 
-## How to explore
-
-Click a notebook to view its saved code, explanations and any retained outputs directly on GitHub. To run locally, install Python and Jupyter, open the notebook in VS Code/Jupyter, and install the libraries imported by its cells.
-
-**Scope:** These are module exercises and drafts, not validated production models. The bias notebook is identified as a skeleton in the original filename.
-
----
-
-[View selected complete projects](https://benjanning.github.io/projects/).
+[Original documentation and academic references](COURSEWORK.md)
